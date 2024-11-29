@@ -40,5 +40,5 @@ The next steps will involve:
 
 ## Report
 
-A detailed report on the project's progress and current research can be found [here](Phase 1 Report.pdf).
+A detailed report on the project's progress and current research can be found [here](Phase_1_Report.pdf).
 
